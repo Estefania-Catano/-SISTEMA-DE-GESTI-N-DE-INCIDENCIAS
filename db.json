@@ -1,0 +1,25 @@
+{
+  "incidents": [
+    {
+      "id": "1",
+      "title": "Error al iniciar sesion",
+      "description": "Usuarios reportan que el boton de ingreso no responde en navegadores moviles.",
+      "status": "Pendiente",
+      "priority": "Alta"
+    },
+    {
+      "id": "2",
+      "title": "Reporte de ventas lento",
+      "description": "El modulo de reportes tarda mas de diez segundos en cargar los datos del mes.",
+      "status": "En Progreso",
+      "priority": "Media"
+    },
+    {
+      "id": "3",
+      "title": "Texto cortado en tarjetas",
+      "description": "La descripcion de productos largos se corta en pantallas pequenas.",
+      "status": "Resuelto",
+      "priority": "Baja"
+    }
+  ]
+}
